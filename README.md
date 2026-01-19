@@ -1,3 +1,16 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=I’m+Ranju+Hasan+Khan;Full-Stack+Developer;International+Speaker+for+World+Peace+🕊️;Passionate+about+Establishing+World+Peace)](https://git.io/typing-svg)
+
+---
+
+## 💫 About Me  
+
+I’m a **Full-Stack Developer**
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
