@@ -9,7 +9,6 @@ I’m a **Full-Stack Developer**
 Open [http://localhost:3000](http://localhost:3000) Open your browser to see my  project .
 
 
-https://vercel.com/ranju-hasan-khans-projects/final-exam-project-ranju-mgcl
 
 
 
